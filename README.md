@@ -5,6 +5,14 @@ Currently working on staying awake....
 
 When i'm not sleeping I enjoy🎣,🍨, country 🎶;
 
+### Current classes being taken:
+
+1) Tables, Tuples, and Tears
+2) The Group Project Simulator
+3) Git Push, Git Blame
+4) Ping Pong 101
+5) From Blurry to Less Blurry
+
 
 
 <!--
